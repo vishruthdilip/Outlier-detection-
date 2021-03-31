@@ -1,0 +1,2 @@
+1. Use percentile to check for outliers.
+2. Box plots 
